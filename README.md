@@ -9,3 +9,6 @@ If someone wants to know the mathematics behind TDA, feel free to contact me.
 tusharp@tamu.edu
 
 I have also tried to automate the hyperparameter selection which reduces the number of hyperparameters from around 10 to 2. And those two hyperparameters are easy to understand since it's the mean and variance of node_valency in the output graph. There is a possibility to further improve it by using both the average variance for the entire graph and the variance for the largest connected component. 
+
+
+Reference: Google, https://kepler-mapper.scikit-tda.org/ , https://scikit-tda.org/libraries.html, Saul, Nathaniel and Tralie, Chris. (2019). Scikit-TDA: Topological Data Analysis for Python. Zenodo. http://doi.org/10.5281/zenodo.2533369
